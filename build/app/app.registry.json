@@ -1,0 +1,134 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "core": "app.yg2ufksz.js",
+  "corePolyfilled": "app.6r1kd7rj.js",
+  "components": {
+    "app-burger": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "app-icon": {
+      "bundleIds": {
+        "$": "gavpbcxw"
+      }
+    },
+    "app-marked": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "app-root": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "context-consumer": {
+      "bundleIds": {
+        "$": "dd3igpwq"
+      }
+    },
+    "contributor-list": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "custom-clock": {
+      "bundleIds": {
+        "$": "euanf2dq"
+      }
+    },
+    "demo-card": {
+      "bundleIds": {
+        "$": "mlzro24n"
+      }
+    },
+    "document-component": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "highlight-code-line": {
+      "bundleIds": {
+        "$": "iocersdy"
+      }
+    },
+    "in-page-navigation": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "lower-content-nav": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "notfound-page": {
+      "bundleIds": {
+        "$": "f3jidiyt"
+      }
+    },
+    "page-apps": {
+      "bundleIds": {
+        "$": "20atctfm"
+      }
+    },
+    "page-home": {
+      "bundleIds": {
+        "$": "wscrd6gx"
+      }
+    },
+    "pwas-page": {
+      "bundleIds": {
+        "$": "mlzro24n"
+      }
+    },
+    "resources-page": {
+      "bundleIds": {
+        "$": "yhpe9l4g"
+      }
+    },
+    "site-footer": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "site-header": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "site-menu": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "stencil-route": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "stencil-route-link": {
+      "bundleIds": {
+        "$": "fjaxqdyo"
+      }
+    },
+    "stencil-route-switch": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "stencil-route-title": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    },
+    "stencil-router": {
+      "bundleIds": {
+        "$": "cgwzfcaj"
+      }
+    }
+  }
+}
